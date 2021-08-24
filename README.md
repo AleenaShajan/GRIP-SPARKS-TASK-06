@@ -1,0 +1,28 @@
+# GRIP-SPARKS-06
+
+Prediction using Decision Tree Algorithm
+
+Dataset : https://bit.ly/3kXTdox
+
+Steps involved in this task : 
+  1)IMPORTING THE REQUIRED LIBRARIES
+  2)LOADING AND READING THE DATASET
+  3)FEATURE EXPLORATION
+  4)CORRELATION MATRIX
+  5)DATA VISUALIZATION
+  6)DATA PRE-PROCESSING
+  7)TRAINING THE MODEL AND DEFINING THE ATTRIBUTES AND LABELS
+  8)CLASSIFICATION REPORT AND CONFUSION MATRIX
+  9)VISUALIZATION OF TRAINED MODEL
+ 10)CONCLUSION
+ 
+ 
+
+
+PROJECT BASED CONCLUSION : 
+  1.For each attritubes 4 pairplots have been plotted with respect to other.
+  2.Both the train and test data has been splitted inorder to minimize the effects of data discrepancies and better understand the model.
+  3.The prediction was calculated using decision tree algorithm.
+  4.A Decision Tree Classifier has been created and based on that accuracy of the classification report was evaluated as 1.
+  5.The visually represented Decision Tree Classifier consists of 1 node and 18 branches.
+
