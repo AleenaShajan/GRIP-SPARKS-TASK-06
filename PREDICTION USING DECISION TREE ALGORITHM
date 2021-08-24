@@ -1,8 +1,16 @@
 # GRIP-SPARKS-06
 
+
 Prediction using Decision Tree Algorithm
 
+
 Dataset : https://bit.ly/3kXTdox
+
+
+Objective : To create a Decision Tree classifier and visualize it graphically.
+     ● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+     
+     
 
 Steps involved in this task : 
   1)IMPORTING THE REQUIRED LIBRARIES
@@ -17,7 +25,6 @@ Steps involved in this task :
  10)CONCLUSION
  
  
-
 
 PROJECT BASED CONCLUSION : 
   1.For each attritubes 4 pairplots have been plotted with respect to other.
